@@ -3,7 +3,11 @@ fresa,
 mango,
 durazno,
 manzana,
-pera
+pera,
+uva,
+caña,
+coco,
+cereza.
 
 
 
