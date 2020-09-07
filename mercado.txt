@@ -1,0 +1,23 @@
+Platano, 
+fresa, 
+mango,
+durazno,
+manzana,
+pera
+
+
+
+Zanahoria, 
+pepino, 
+calabaza,
+chayote,
+pimiento,
+chile morrón
+
+
+yerbabuena,
+espinacas,
+lechuga,
+rabanos, 
+tomate,
+jitomate.
