@@ -12,7 +12,12 @@ pepino,
 calabaza,
 chayote,
 pimiento,
-chile morrón
+chile morrón, 
+limon,
+coliflor,
+papa, 
+apio,
+brocoli.
 
 
 yerbabuena,
