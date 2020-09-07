@@ -20,4 +20,8 @@ espinacas,
 lechuga,
 rabanos, 
 tomate,
-jitomate.
+jitomate,
+cebolla,
+coliflor, 
+camote,
+vetabel.
